@@ -1,0 +1,8 @@
+Stemming!
+'writing', 'playing', 'played', 'riding', 'drives', 'breaking', 'lives', 'running', 'given', 'chosen', 'drawing'
+
+Lemmatizing!
+'better'
+
+Wordnet!
+'Quickly kicking quirky kangaroos caused chaos.'

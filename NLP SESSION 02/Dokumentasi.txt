@@ -1,0 +1,8 @@
+Algoritma 
+Stemming: Ambil kata depan (prefix)
+- Lancaster
+- Porter
+- Snowball
+
+Lemmatizing: Cari kata mendekati vocabulary + konteksnya
+Wordnet: Kamus, cari definisi, sinonim, antonim, hiponim
